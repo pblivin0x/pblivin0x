@@ -3,7 +3,7 @@
 I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Formerly a student and researcher - B.S. Mathematics @ [UIUC](https://math.illinois.edu/) and M.S. Statistics: Data Science @ [Stanford](https://statistics.stanford.edu/). 
 
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
-- 🌱 I’m currently learning smart contracts and web development
+- 🌱 I’m currently learning about smart contracts, web development, and performant systems
 - 😄 Pronouns: he/him
 - 📫 How to reach me: <a href="mailto: pblivin0x@gmail.com"><img alt="pblivin0x@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://twitter.com/pblivin0x"><img alt="@pblivin0x" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/pranav-bhardwaj-/"><img alt="@pranav-bhardwaj-" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 👇🏽 Ask me about what I've been learning
