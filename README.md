@@ -18,7 +18,7 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 
 ### Github Stats
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://docs.soliditylang.org/en/latest/"><img alt="Solidity" src="https://camo.githubusercontent.com/717981f7a9cc333b21b4a04e98873b95f4237946a9850bd3f69f57fe53040e0f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536f6c696469747926636f6c6f723d333633363336266c6f676f3d536f6c6964697479266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
