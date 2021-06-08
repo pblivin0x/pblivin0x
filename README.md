@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=23&vCenter=true&lines=Hi+there+%F0%9F%91%8B;My+name+is+Pranav+Bhardwaj+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="mailto: pblivin0x@gmail.com"><img alt="pblivin0x@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/pblivin0x"><img alt="@pblivin0x" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/pblivin0x"><img alt="@pblivin0x" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pranav-bhardwaj-/"><img alt="@pranav-bhardwaj-" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
 I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/) and B.S. Mathematics: Operations Research @ [UIUC](https://math.illinois.edu/).
 
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
@@ -15,6 +8,15 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 - 👇🏽 Ask me about what I've been learning
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pblivin0x&repo=technical-notes&theme=react)](https://github.com/pblivin0x/technical-notes)
+
+## 🤝 Social Links
+
+<p align="left">
+  <a href="mailto: pblivin0x@gmail.com"><img alt="pblivin0x@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/pblivin0x"><img alt="@pblivin0x" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/pblivin0x"><img alt="@pblivin0x" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pranav-bhardwaj-/"><img alt="@pranav-bhardwaj-" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ## 👨🏾‍💻 Programming Languages
 
