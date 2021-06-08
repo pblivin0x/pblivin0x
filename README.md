@@ -29,14 +29,14 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 
 ## 📈 Github Stats
 
-<a href="https://github.com/pblivin0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pblivin0x&hide_title=true&show_icons=true&theme=react" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pblivin0x&hide_title=true&show_icons=true&theme=react&hide_border=true" />
 </a>
 
-<a href="https://github.com/pblivin0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblivin0x&layout=compact&theme=react&hide=tex" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblivin0x&layout=compact&theme=react&hide=tex&hide_border=true" />
 </a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=pblivin0x&theme=react-dark" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=pblivin0x&theme=react-dark&hide_border=true" />
 </a>
