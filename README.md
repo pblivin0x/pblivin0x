@@ -16,7 +16,7 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pblivin0x&repo=technical-notes&theme=react)](https://github.com/pblivin0x/technical-notes)
 
-### Github Stats
+## 👨🏾‍💻 Programming Languages
 
 <p align="left">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -26,6 +26,8 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
+
+## 📈 Github Stats
 
 <a href="https://github.com/pblivin0x">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pblivin0x&hide_title=true&show_icons=true&theme=react" />
