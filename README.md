@@ -32,7 +32,7 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 </a>
 
 <a href="https://github.com/pblivin0x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblivin0x&layout=compact&theme=react-dark&hide=tex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pblivin0x&layout=compact&theme=react&hide=tex" />
 </a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
