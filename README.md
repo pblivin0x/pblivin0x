@@ -5,7 +5,7 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
 - 🌱 I’m currently learning about smart contracts, web development, and performant systems
 - 😄 Pronouns: he/him
-- 👇🏽 Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
+- 💬 Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
 
 ## 🤝 Social Links
 
