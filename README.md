@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously B.S. Mathematics @ [UIUC](https://math.illinois.edu/) and M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/). 
+I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/) and B.S. Mathematics: Operations Research @ [UIUC](https://math.illinois.edu/).
 
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
 - 🌱 I’m currently learning about smart contracts, web development, and performant systems
