@@ -34,3 +34,5 @@ I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=pblivin0x&theme=react-dark&hide_border=true" />
 </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CCFF90&vCenter=true&height=30&lines=It's+not+luck...;It's+not+skill...;It's+PB+Livin'+%F0%9F%98%8E+++++)](https://git.io/typing-svg)
