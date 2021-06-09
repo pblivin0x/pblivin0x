@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CCFF90&size=30&lines=Hi+there+%F0%9F%91%8B;I'm+Pranav+Bhardwaj...)](https://git.io/typing-svg)
+## Hi there <img src="https://raw.githubusercontent.com/pblivin0x/pblivin0x/master/wave.gif" width="30px">
 
 I'm Pranav Bhardwaj. Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/) and B.S. Mathematics: Operations Research @ [UIUC](https://math.illinois.edu/).
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
