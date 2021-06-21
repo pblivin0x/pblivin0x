@@ -4,7 +4,7 @@ Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Pre
 - 🔭 I’m currently working on applied statistics and machine learning use cases 
 - 🌱 I’m currently learning about smart contracts, web development, and performant systems
 - 😄 Pronouns: he/him
-- 🌟 Fun fact: my profile picture is an [NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/8112316025873927737505937898915153732580103913704334048512379967429473730561)
+- 🌟 Fun fact: my profile picture is an NFT
 - 😴 Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
 - 💬 Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
 
