@@ -1,12 +1,12 @@
 ## Hi there <img src="https://raw.githubusercontent.com/pblivin0x/pblivin0x/master/wave.gif" width="30px">
 
 Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/) and B.S. Mathematics: Operations Research @ [UIUC](https://math.illinois.edu/).
-- 🔭 I’m currently working on applied statistics and machine learning use cases 
-- 🌱 I’m currently learning about smart contracts, web development, and performant systems
-- 😄 Pronouns: he/him
-- 🌟 Fun fact: my profile picture is an NFT
-- 😴 Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
-- 💬 Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
+- 🔭  I’m currently working on applied statistics and machine learning use cases 
+- 🌱  I’m currently learning about smart contracts, web development, and performant systems
+- 😄  Pronouns: he/him
+- 🌟  Fun fact: my profile picture is an NFT
+- 😴  Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
+- 💬  Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
 
 ## 🤝 Social Links
 <p align="left">
@@ -23,7 +23,6 @@ Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Pre
   <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://html.spec.whatwg.org/multipage/"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
 
 ## 📈 Github Stats
