@@ -2,11 +2,11 @@
 
 Currently a Data Scientist @ [mcSquared AI](https://github.com/mcSquaredAI). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/) and B.S. Mathematics: Operations Research @ [UIUC](https://math.illinois.edu/).
 - 🔭  I’m currently working on applied statistics and machine learning use cases 
-- 🌱  I’m currently learning about smart contracts, web development, and performant systems
+- 🌱  I’m currently learning about smart contracts and web3
 - 😄  Pronouns: he/him
-- 🌟  Fun fact: my profile picture is an NFT
+- 🌟  Fun fact: my profile picture is an [NFT](https://www.thepixelportraits.me/)
 - 😴  Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
-- 💬  Ask me about what I've been [learning](https://github.com/pblivin0x/technical-notes)
+- 💬  Ask me about what I've been [learning](https://github.com/pblivin0x/blockchain-developer-bootcamp-final-project)
 
 ## 🤝 Social Links
 <p align="left">
