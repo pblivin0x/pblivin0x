@@ -1,11 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/pblivin0x/pblivin0x/master/wave.gif" width="30px">
 
 Currently a Software Engineer @ [Set Protocol](https://github.com/SetProtocol). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
-- 🔭  I’m currently working on EVM-based asset management contracts
 - 😄  Pronouns: he/him
 - 🌟  Fun fact: my profile picture is an [NFT](https://www.thepixelportraits.me/)
 - 😴  Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
-- 💬  Ask me about experience in web3
 
 ## 🤝 Social Links
 <p align="left">
