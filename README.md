@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/pblivin0x/pblivin0x/master/wave.gif" width="30px">
+## Hi there 👋
 
 Currently a Software Engineer @ [Set Protocol](https://github.com/SetProtocol). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
 - 😄  Pronouns: he/him
