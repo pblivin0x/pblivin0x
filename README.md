@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-Currently a Software Engineer @ [Set Protocol](https://github.com/SetProtocol). Previously M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
-- 😄  Pronouns: he/him
-- 🌟  Fun fact: my profile picture is a [pixel portrait](https://twitter.com/thepxlportraits)
-- 😴  Need a break? Check out [PB Livin' Runner](https://pblivin0x.github.io/pblivin-runner/)
+Previously Software Engineer @ [Set Protocol](https://github.com/SetProtocol), M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
 
 ## 🤝 Social Links
 <p align="left">
