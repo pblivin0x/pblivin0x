@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Previously Software Engineer @ [Set Protocol](https://github.com/SetProtocol), M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
+I'm Pranav, a solidity developer and quantitative researcher. Previously Software Engineer @ [Set Protocol](https://github.com/SetProtocol), M.S. Statistics: Data Science @ [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms/statistics-data-science-curriculum) and B.S. Mathematics: Operations Research @ [UIUC](http://catalog.illinois.edu/undergraduate/las/mathematics-bslas/operations-research/#text).
 
 ## 🤝 Social Links
 <p align="left">
