@@ -14,6 +14,6 @@ Previously Software Engineer @ [Set Protocol](https://github.com/SetProtocol) an
 
 ## 💻 Programming Languages
 <p align="left">
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
   <a href="https://docs.soliditylang.org/en/latest/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
 </p>
